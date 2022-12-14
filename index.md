@@ -13,3 +13,9 @@
 
 * git commit
   * adds the file to the history
+
+* git checkout
+  * reverts a file to the last commit
+
+* git diff
+  * shows what specific code has been changed
